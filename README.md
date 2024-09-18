@@ -1,5 +1,4 @@
-# Title
-Argonaute-mediated Digital Sensor Based on a Magnetic Beads-assisted Imaging Transcoding System for Multiplexed Detection of Foodborne Pathogens
+# Argonaute-mediated Digital Sensor Based on a Magnetic Beads-assisted Imaging Transcoding System for Multiplexed Detection of Foodborne Pathogens
 
 ## Overview of Panda
 We developed an AI algorithm platform named "Panda". The Panda platform accurately classifies, grades, and counts MBs. It also calculates the nucleic acid concentration based on the total number of obtained fluorescent MBs.
